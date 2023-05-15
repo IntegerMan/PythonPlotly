@@ -2,6 +2,7 @@
     "recommendations": [
         "ms-toolsai.jupyter",
         "ms-python.python",
-        "msrvida.vscode-sanddance"
+        "msrvida.vscode-sanddance",
+        "pkief.material-icon-theme"
     ]
 }

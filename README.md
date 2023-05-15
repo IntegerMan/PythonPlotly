@@ -1,6 +1,8 @@
 # Exploratory Data Analysis in Python with Pandas and Plotly
 Code to accompany a [talk](https://sessionize.com/s/matt-eland/exploratory-data-analysis-in-python-with-pandas-an/69550) by [Matt Eland](https://MattEland.dev)
 
+![Matt Eland | @IntegerMan | Microsoft MVP](Images/Matt.png)
+
 This talk covers the following major topics:
 
 - Python
@@ -8,6 +10,8 @@ This talk covers the following major topics:
 - Pandas
 - NumPy
 - Plotly (particularly Plotly Express)
+
+Code for this talk is available on GitHub at [github.com/IntegerMan/PythonPlotly](https://github.com/IntegerMan/PythonPlotly)
 
 ## Talk Abstract
 
